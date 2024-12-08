@@ -39,7 +39,7 @@ Bu proje, şehir içi ulaşım sorunlarına pratik ve güvenilir çözümler sun
 
 - GitHub reposundan projeyi klonlayın veya ZIP dosyası olarak indirin.
 
-git clone https://github.com/kullaniciadi/proje-adi.git
+git clone https://github.com/oguzhansarigol/Seferify.git 
 
 3. Proje Dosyalarını Açın:
 
