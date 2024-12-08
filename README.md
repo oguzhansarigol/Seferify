@@ -1,11 +1,11 @@
-Project By Oğuzhan Sargöl & Cihan Bekem & Asrınalp Şahin & Mustafa Günaltay for Formal Languages and Automata Theory Course at ESOGU CENG
-Çevreci Paylaşımlı Araç Kiralama Uygulaması
+# Project By Oğuzhan Sargöl & Cihan Bekem & Asrınalp Şahin & Mustafa Günaltay for Formal Languages and Automata Theory Course at ESOGU CENG
+# Çevreci Paylaşımlı Araç Kiralama Uygulaması
 
-Proje Hakkında
+## Proje Hakkında
 
 Bu proje, şehir içi ulaşım sorunlarına pratik ve güvenilir çözümler sunmak amacıyla geliştirilmiş bir araç kiralama uygulamasıdır. Kullanıcılara çevre dostu elektrikli araç seçenekleri ve güvenilir paylaşımlı ulaşım imkanları sunarak, konforlu ve ekonomik bir ulaşım deneyimi sağlamayı hedeflemektedir.
 
-Özellikler
+## Özellikler
 
 - Kullanıcı dostu arayüz
 
@@ -17,7 +17,7 @@ Bu proje, şehir içi ulaşım sorunlarına pratik ve güvenilir çözümler sun
 
 - Gereksinim yönetimi ile esnek geliştirme
 
-Teknolojiler
+## Teknolojiler
 
 - Programlama Dili: C# (.NET Framework)
 
@@ -27,7 +27,7 @@ Teknolojiler
 
 - Asana (Proje yönetimi için)
 
-Kurulum
+## Kurulum
 
 1. Gereksinimler:
 
@@ -49,13 +49,13 @@ git clone https://github.com/kullaniciadi/proje-adi.git
 
 - Projeyi derleyin ve çalıştırın.
 
-Kullanım
+## Kullanım
 
 - Uygulama açıldığında, kullanıcılar araç kiralama işlemlerini gerçekleştirebilir.
 
 - Kullanıcılar, mevcut araçları görüntüleyebilir, rezervasyon yapabilir ve araçları iade edebilir.
 
-Katkıda Bulunma
+## Katkıda Bulunma
 
 Bu projeye katkıda bulunmak isterseniz, lütfen bir "pull request" oluşturun veya önerilerinizi iletin.
 
